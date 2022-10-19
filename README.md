@@ -1,6 +1,6 @@
 # New Life Bank
 
-## Aula 04/10/2021
+## Aula 18/10/2022
 
 ### 1) Criar um repositório no GitHub com o nome ```new_life_bank```
 * .gitignore
